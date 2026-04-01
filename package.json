@@ -1,0 +1,20 @@
+{
+  "name": "study-chibivue",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd examples/playground && pnpm i && pnpm run dev",
+    "fmt": "oxfmt .",
+    "fmt:check": "oxfmt --check .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "oxfmt": "^0.43.0"
+  },
+  "packageManager": "pnpm@10.22.0"
+}
