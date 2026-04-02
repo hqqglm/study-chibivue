@@ -1,0 +1,1 @@
+// nodeOps と renderer のファクトリ関数を元に renderer を完成させる
