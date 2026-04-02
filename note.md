@@ -13,7 +13,8 @@ claude code といっしょに勉強中🫶
   - SSR では DOM に触らないの？
 
     > 結論から言うと、書きますが、意味が少し違います。  
-    > SSR の流れを具体的に見ると > サーバー側（Node.js）
+    > SSR の流れを具体的に見ると
+    > サーバー側（Node.js）
 
     ```js
     import { renderToString } from "vue/server-renderer";
